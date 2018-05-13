@@ -1,0 +1,1 @@
+Finds fast food stores near a certain address or within a zip code. Must fill in the API key at every spot where "API_KEY" is shown. The API key is for google maps. The txt files are included.
